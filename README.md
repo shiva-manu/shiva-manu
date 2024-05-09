@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiva-manu
+- 👋 Hi, I’m @shiva-mani
 - 👀 I’m interested in Automation and Computer Vision
 - 🌱 I’m currently learning AIML
 - 💞️ I’m looking to collaborate on ...

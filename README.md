@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiva-mani
-- 👀 I’m interested in Automation and Computer Vision
+- 👀 I’m interested in Machine learning and Deep learning 
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML Projects 
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...

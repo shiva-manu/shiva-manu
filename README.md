@@ -1,11 +1,11 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @shiva-mani
-<br>    👀 I’m interested in Machine Learning and Deep Learning
-<br>    🌱 I’m currently learning AI & ML
-<br>    💞️ I’m looking to collaborate on ML Projects
-<br>    📫 How to reach me
-<br>    😄 Pronouns: He/Him
-<br>    ⚡ Fun fact: ☕ Coffee → ⚡ Caffeine → 🧠 Concentration → 💻 Coding 🚀
+<br>     Hi, I’m @shiva-mani
+<br>     I’m interested in Machine Learning and Deep Learning
+<br>     I’m currently learning AI & ML
+<br>     I’m looking to collaborate on ML Projects
+<br>     How to reach me
+<br>     Pronouns: He/Him
+<br>     Fun fact: ☕ Coffee → ⚡ Caffeine → 🧠 Concentration → 💻 Coding 🚀
 
 
 ## 🌐 Socials:
